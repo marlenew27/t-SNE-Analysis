@@ -1,4 +1,4 @@
-# t-SNE-analysis
+# t-SNE-Analysis
 
 Custom collections of several tSNE-related plotting function.
 
@@ -7,7 +7,7 @@ Custom collections of several tSNE-related plotting function.
 First, clone the repository and install all dependencies.
 
 ```bash
-git clone https://github.com/marlenew27/t-SNE-analysis.git
+git clone https://github.com/marlenew27/t-SNE-Analysis.git
 python -m pip install -r requirements.txt
 ```
 
