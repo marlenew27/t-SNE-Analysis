@@ -1,0 +1,23 @@
+{
+    "file_path": "/file/path/to/excel/or/csv",
+    "groups_count": 2,
+    "groups_info" : [
+        {
+            "group_name": "Group 1",
+            "start_col": "A",
+            "end_col": "M",
+            "color": "red"
+        },
+        {
+            "group_name": "Group 2",
+            "start_col": "N",
+            "end_col": "Z",
+            "color": "green"
+        }
+    ],
+    "region_col_index": "AA",
+    "fig_save_path": "fig_output.png",
+    "csv_save_path": "feature_weights.csv",
+    "show_fig": false,
+    "dimension": "2"
+}

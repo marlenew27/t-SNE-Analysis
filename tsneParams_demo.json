@@ -1,0 +1,24 @@
+{
+    "file_path": "/Users/yihan/Desktop/lab/withdrawal_counts_table.xlsx",
+    "groups_count": 2,
+    "groups_info" : [
+        {
+            "group_name": "Group 1",
+            "start_col": "I",
+            "end_col": "L",
+            "color": "red"
+        },
+        {
+            "group_name": "Group 2",
+            "start_col": "M",
+            "end_col": "O",
+            "color": "green"
+        }
+
+    ],
+    "region_col_index": "P",
+    "fig_save_path": "/Users/yihan/PycharmProjects/tsne/",
+    "csv_save_path": "/Users/yihan/PycharmProjects/tsne/",
+    "show_fig": true,
+    "dimension": "3"
+}
